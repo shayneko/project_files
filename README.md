@@ -1,2 +1,4 @@
 # project_files
- ZtM projects for web devlepor
+ZtM exercises 
+Personal projects
+My road to Software Engieering and Web developer
